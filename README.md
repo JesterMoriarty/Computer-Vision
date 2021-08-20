@@ -1,2 +1,2 @@
 # Computer Vision Projects Repository 
-> Working on Project I see only and Creating on own
+> Working on Projects I like and Creating My Own Projects
